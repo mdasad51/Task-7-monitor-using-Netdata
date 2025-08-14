@@ -13,3 +13,9 @@ Netdata provides detailed insights into CPU usage, memory consumption, disk spac
 
 ### Disk Space Monitoring
 ![image alt](https://github.com/mdasad51/Task-7-monitor-using-Netdata/blob/main/images/Screenshot%202025-08-14%20120109.png?raw=true)
+
+## This is the Docker container you can check the container Id 7243f7ea553d
+![image alt](https://github.com/mdasad51/Task-7-monitor-using-Netdata/blob/main/images/Screenshot%202025-08-14%20120559.png?raw=true)
+
+## This is the Monitoring Dashboard of that container 7243f7ea553d
+![image alt](https://github.com/mdasad51/Task-7-monitor-using-Netdata/blob/main/images/Screenshot%202025-08-14%20120542.png?raw=true)
